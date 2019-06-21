@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ant-Man",
+    "image": "https://vignette.wikia.nocookie.net/ffmcu/images/3/3f/Ant-Man_Suit.png/revision/latest?cb=20180822235000",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Hulk",
+    "image": "https://vignette.wikia.nocookie.net/fictionalcharacters/images/d/d5/Hulk.png/revision/latest?cb=20131028231649",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Wolverine",
+    "image": "https://vignette.wikia.nocookie.net/new-marvel-roleplay/images/a/ad/Wolverine2.png/revision/latest?cb=20180115055136",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Black Widow",
+    "image": "https://i.pinimg.com/originals/1c/2e/eb/1c2eebf8774da6e3825d5fc5af46d0fd.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Captain Marvel",
+    "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/b/b8/Captain_Marvel.png/revision/latest?cb=20181125141930",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Ironman",
+    "image": "https://vignette.wikia.nocookie.net/ironman/images/9/91/Mark17F.PNG/revision/latest?cb=20150603032715",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Captain America",
+    "image": "https://img.pngio.com/captain-americapng-captain-america-png-912_1201.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Thor",
+    "image": "https://vignette.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/5/55/Thor_Odinson.png/revision/latest?cb=20160424035444",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Black Panther",
+    "image": "https://i.pinimg.com/originals/2b/3d/d7/2b3dd7f4809b91bb0031f5700d0e9cd0.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Spiderman",
+    "image": "https://i.dlpng.com/static/png/1441884_thumb.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Thanos",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/4/4c/Thanos_Portrait_Art.png/revision/latest/scale-to-width-down/400?cb=20150912050906",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Loki",
+    "image": "https://vignette.wikia.nocookie.net/vsdebating/images/f/fe/Loki.png/revision/latest/scale-to-width-down/400?cb=20170724232522",
+    "count": 0
+  }
+]
